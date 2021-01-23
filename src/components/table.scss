@@ -1,0 +1,27 @@
+.container{
+    .list-edit{
+        margin: 30px;
+        input{
+            margin: 20px;
+            border-radius: 3px;
+            border: solid 1px black;
+        }
+    }
+    table{
+        background-color:white;
+        thead{
+            td{
+                text-transform: uppercase;
+                background-color: wheat;
+                font-weight: 400;
+                font-size: 18px;
+        }
+        tbody{
+            button{
+                border-radius: 3px;
+                border: solid 1px black;
+                }
+            }
+        }
+    }
+}

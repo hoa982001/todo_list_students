@@ -1,0 +1,28 @@
+body{
+    background-color: #F5F6CE;
+    .main{
+        .add-person{
+            font-size: 30px;
+            font-weight: 550;
+            margin: 30px;
+            color: black;
+        }
+        .list-in{
+            margin: 30px;
+            input{
+                border-radius: 3px;
+                margin: 20px;
+                border: solid 1px black;
+            }
+            button{
+                border: solid 1px black;
+                border-radius: 3px;
+            }
+        }
+        .list-person{
+            margin: 30px;
+            font-size: 30px;
+            font-weight: 550;
+        }
+    }
+}
